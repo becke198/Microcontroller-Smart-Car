@@ -47,7 +47,7 @@ Compass Feature: Too inaccurate due to magnetic interference and delays.
 
 Testing Insight: Calibration must adapt dynamically to battery levels and motor wear.
 
-🔧 Recommendations for Future Work
+## Recommendations for Future Work
 
 Replace DC motors with encoders for precise movement tracking.
 
